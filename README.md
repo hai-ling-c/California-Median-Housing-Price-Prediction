@@ -1,4 +1,4 @@
-# California-Medium-Housing-Price-Prediction
+# California-Median-Housing-Price-Prediction
 ## Overview
 This project aims to study the california housing price data (available in the repository) in 6 sections:
 ### Section 1: Import required libraries
