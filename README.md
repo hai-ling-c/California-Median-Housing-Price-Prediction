@@ -1,4 +1,16 @@
 # California-Median-Housing-Price-Prediction
+
+## Table of Contents
+- [Python packages requirements](#python-package-requirements)
+- [Overview](#overview)
+- [Summary and limitations](#summary-and-limitations)
+
+## Python package requirements
+The project requires packages which are sepcified in the requirement.txt and can be installed through:
+```
+pip install -r requirements.txt
+```
+
 ## Overview
 This project aims to study the california housing price data (available in the repository) in 6 sections:
 ### Section 1: Import required libraries
