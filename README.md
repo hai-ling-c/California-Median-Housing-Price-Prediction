@@ -1,14 +1,14 @@
 # California-Median-Housing-Price-Prediction
 
 ## Table of Contents
-- [Python packages requirements](#python-package-requirements)
+- [Installation](#installation)
 - [Overview](#overview)
 - [Summary and limitations](#summary-and-limitations)
 
-## Python package requirements
-The project requires packages which are sepcified in the requirement.txt and can be installed through:
+## Installation
+This project uses [uv](https://github.com/astral-sh/uv) for dependency management. Run:
 ```
-pip install -r requirements.txt
+uv sync
 ```
 
 ## Overview
